@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBAp5b3Ccl/gl79DywbXsnHpAEuCFTzINq6Y5uQnWbrD4O99kYicnEjtb6o0JQXii3HHxTJK1A0ky52Be4OZ0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Maui Apps\\AppMovil.UTN.CP\\ApiConsumer\\ApiConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

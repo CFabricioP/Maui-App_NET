@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMovil.UTN.CP", "AppMovil.UTN.CP\AppMovil.UTN.CP.csproj", "{5500BF8D-D2D2-4735-8959-CACADD846982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumer", "ApiConsumer\ApiConsumer.csproj", "{B615A0D2-AD32-4EA4-BF7C-810B1E04B05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5500BF8D-D2D2-4735-8959-CACADD846982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5500BF8D-D2D2-4735-8959-CACADD846982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5500BF8D-D2D2-4735-8959-CACADD846982}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5500BF8D-D2D2-4735-8959-CACADD846982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5500BF8D-D2D2-4735-8959-CACADD846982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5500BF8D-D2D2-4735-8959-CACADD846982}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B615A0D2-AD32-4EA4-BF7C-810B1E04B05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B615A0D2-AD32-4EA4-BF7C-810B1E04B05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B615A0D2-AD32-4EA4-BF7C-810B1E04B05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B615A0D2-AD32-4EA4-BF7C-810B1E04B05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF00B1E3-E887-4FD1-9826-B194F2E59860}
+	EndGlobalSection
+EndGlobal

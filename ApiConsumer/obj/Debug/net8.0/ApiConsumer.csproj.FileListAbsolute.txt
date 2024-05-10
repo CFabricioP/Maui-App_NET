@@ -1,0 +1,12 @@
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\bin\Debug\net8.0\ApiConsumer.deps.json
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\bin\Debug\net8.0\ApiConsumer.dll
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\bin\Debug\net8.0\ApiConsumer.pdb
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\ApiConsumer.csproj.AssemblyReference.cache
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\ApiConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\ApiConsumer.AssemblyInfoInputs.cache
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\ApiConsumer.AssemblyInfo.cs
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\ApiConsumer.csproj.CoreCompileInputs.cache
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\ApiConsumer.dll
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\refint\ApiConsumer.dll
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\ApiConsumer.pdb
+C:\Maui Apps\AppMovil.UTN.CP\ApiConsumer\obj\Debug\net8.0\ref\ApiConsumer.dll
